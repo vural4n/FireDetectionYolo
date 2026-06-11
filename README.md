@@ -1,3 +1,5 @@
-<video controls>
-  <source src="police_output.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <video src="https://github.com" controls width="100%" preload="auto">
+    Your browser does not support the video tag.
+  </video>
+</p>
